@@ -226,7 +226,7 @@ zwaveManufacturer:
     manufacturerId: 0x0063
     productType: 0x4952
     productId: 0x3238
-    deviceProfileName: ge-switch-scene
+    deviceProfileName: ge-switch-assoc
   - id: "0063/4F50/3031"
     deviceLabel: GE Plug In Switch 12720
     manufacturerId: 0x0063
